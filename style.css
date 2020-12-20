@@ -1,11 +1,20 @@
-body{
-text-align: center;
- background-color: #1E88E5;
+
+
+
+body {
+	text-align: center;
+	background-color: #1E88E5;
 }
+
 h1 {
-color: red;
-background-color: #388E3C; 
+	color: red;
+	background-color: aliceblue;
 }
-kk{
- size: 2px;
+
+kk {
+	size: 2px;
+}
+covid{
+border-radius: 50%;
+	
 }
